@@ -7,3 +7,21 @@ h1{
 .sp-color span{
     color: orange;
 }
+section{
+    display: flex ;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.butt{
+    text-decoration: none;
+    padding: 8px 40px;
+    font-weight: 700;
+    color: white;
+    background-color: tomato;
+    border-radius: 8px;
+}

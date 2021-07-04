@@ -22,6 +22,6 @@ section{
     padding: 8px 40px;
     font-weight: 700;
     color: white;
-    background-color: tomato;
+    background-image: linear-gradient(tomato, orange);
     border-radius: 8px;
 }
